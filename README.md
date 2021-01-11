@@ -1,1 +1,1 @@
-# Total-variationa-denoising
+# Total-variation-denoising
